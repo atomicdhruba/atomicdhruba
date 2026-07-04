@@ -86,19 +86,25 @@ fun_fact: I pit AIs against each other to write better video titles 🤖⚔️�
 
 <div align="center">
 
-<a href="https://github.com/ZenXYT/ZenXYT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenXYT&repo=ZenXYT&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" />
+<a href="https://github.com/atomicdhruba/ZenXYT">
+<table>
+<tr>
+<td width="600" align="center">
+
+### 🧠 ZenXYT
+
+**A multi-AI debate engine for viral YouTube metadata**
+
+Pits **Google Gemini** against **NVIDIA Nemotron** — then merges the best of both worlds.
+
+`Python` `Gemini API` `NVIDIA API` `YouTube API` `CustomTkinter`
+
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/ZenXYT)
+
+</td>
+</tr>
+</table>
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> 🧠 **ZenXYT** — A multi-AI debate engine that pits **Google Gemini** against **NVIDIA Nemotron**
-> to generate the most viral, SEO-optimized YouTube metadata. Features brain extraction,
-> AI debates, SEO scoring, and direct YouTube API integration.
 
 </div>
 
@@ -112,10 +118,10 @@ fun_fact: I pit AIs against each other to write better video titles 🤖⚔️�
 <div align="center">
 
 <!-- GITHUB STATS CARD -->
-<img src="https://github-readme-stats.vercel.app/api?username=atomicdhruba&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atomicdhruba&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
 &nbsp;&nbsp;&nbsp;
 <!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicdhruba&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atomicdhruba&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" height="180" />
 
 <br/><br/>
 
