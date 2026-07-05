@@ -99,7 +99,7 @@ Pits **Google Gemini** against **NVIDIA Nemotron** — then merges the best of b
 
 `Python` `Gemini API` `NVIDIA API` `YouTube API` `CustomTkinter`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/ZenMetabot)
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/Zen-Metabot)
 
 </td>
 </tr>
