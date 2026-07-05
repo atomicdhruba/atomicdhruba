@@ -38,7 +38,7 @@ fun_fact: I pit AIs against each other to write better video titles 🤖⚔️�
 
 - 🎓 &nbsp;Student developer passionate about **AI & Automation**
 - 🎬 &nbsp;YouTube content creator at **[@AtomicDhruba](https://youtube.com/@AtomicDhruba)**
-- 🧠 &nbsp;Building **ZenXYT** — a multi-AI debate engine for viral YouTube metadata
+- 🧠 &nbsp;Building **Zen Metabot** — a multi-AI debate engine for viral YouTube metadata
 - 🌱 &nbsp;Currently exploring **Gemini AI**, **NVIDIA APIs**, and **advanced prompt engineering**
 - ⚡ &nbsp;I believe in: *"Automate the boring stuff, create the exciting stuff"*
 
@@ -91,7 +91,7 @@ fun_fact: I pit AIs against each other to write better video titles 🤖⚔️�
 <tr>
 <td width="600" align="center">
 
-### 🧠 ZenXYT
+### 🧠 Zen Metabot
 
 **A multi-AI debate engine for viral YouTube metadata**
 
@@ -99,7 +99,7 @@ Pits **Google Gemini** against **NVIDIA Nemotron** — then merges the best of b
 
 `Python` `Gemini API` `NVIDIA API` `YouTube API` `CustomTkinter`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/ZenXYT)
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/ZenMetabot)
 
 </td>
 </tr>
