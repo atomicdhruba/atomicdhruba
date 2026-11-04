@@ -86,25 +86,70 @@ fun_fact: I pit AIs against each other to write better video titles 🤖⚔️�
 
 <div align="center">
 
-<a href="https://github.com/atomicdhruba/ZenXYT">
-<table>
+<table width="100%">
 <tr>
-<td width="600" align="center">
+<td width="50%" valign="top">
 
-### 🧠 Zen Metabot
+### 🧠 [Zen MetaBot](https://github.com/atomicdhruba/Zen-MetaBot)
+> **Multi-AI Debate Engine for YouTube Metadata**
 
-**A multi-AI debate engine for viral YouTube metadata**
-
-Pits **Google Gemini** against **NVIDIA Nemotron** — then merges the best of both worlds.
+Pits **Google Gemini 1.5 Pro** against **NVIDIA Nemotron** to auto-generate high-CTR titles, descriptions, and viral SEO tags.
 
 `Python` `Gemini API` `NVIDIA API` `YouTube API` `CustomTkinter`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/Zen-Metabot)
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/Zen-MetaBot)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ [Atomic Notebook](https://github.com/atomicdhruba/Atomic-Notebook)
+> **Next-Gen Live Markdown & Math Notebook**
+
+Ultra-fast desktop notebook featuring **CodeMirror 6**, **KaTeX** math typesetting, and an idiomorph DOM-morphing preview sandbox.
+
+`TypeScript` `CodeMirror 6` `KaTeX` `Tailwind CSS`
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/Atomic-Notebook)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atomicdhruba.github.io/Atomic-Notebook/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [DeskWeb](https://github.com/atomicdhruba/DeskWeb)
+> **Desktop-Class Browser for Android & DeX**
+
+Full desktop browsing experience engineered for Android tablets, foldables, and PC desktop environments (**Samsung DeX**, **Motorola Ready For**).
+
+`Kotlin` `Android SDK` `Samsung DeX` `AdBlock` `WebView`
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/DeskWeb)
+[![Releases](https://img.shields.io/badge/Download_APK-06b6d4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/atomicdhruba/DeskWeb/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Calculator Vault](https://github.com/atomicdhruba/calculator-vault)
+> **Hardware-Encrypted Stealth Privacy Vault**
+
+Authentic, fully functional Android calculator concealing a hardware-backed **AES-256 GCM** stealth privacy container with anti-forensic defenses.
+
+`Kotlin` `Jetpack Compose` `AES-256 GCM` `Material 3`
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atomicdhruba/calculator-vault)
 
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -131,7 +176,7 @@ Pits **Google Gemini** against **NVIDIA Nemotron** — then merges the best of b
 <br/><br/>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atomicdhruba&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Graph" width="95%" />
+<img src="https://raw.githubusercontent.com/atomicdhruba/atomicdhruba/output/activity-graph.svg" alt="Contribution Graph" width="95%" />
 
 </div>
 

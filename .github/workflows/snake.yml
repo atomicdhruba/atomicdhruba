@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -11,6 +11,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -18,6 +20,14 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: atomicdhruba
+          options: "theme=tokyo-night&bg_color=0d1117&color=a855f7&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true"
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
